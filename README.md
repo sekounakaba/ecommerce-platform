@@ -336,7 +336,7 @@ docker-compose -f docker-compose.prod.yml up -d
 
 ## Licence
 
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+© 2024 Sekouna KABA - [DataSphere Innovation](https://datasphereinnovation.fr). Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
